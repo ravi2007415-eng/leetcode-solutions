@@ -19,4 +19,12 @@ Language used: Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
