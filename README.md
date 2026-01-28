@@ -36,6 +36,7 @@ Language used: Java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0071-simplify-path](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,5 +53,6 @@ Language used: Java
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
