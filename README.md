@@ -27,6 +27,7 @@ Language used: Java
 | [0001-two-sum](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,4 +78,8 @@ Language used: Java
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Matrix
+|  |
+| ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
