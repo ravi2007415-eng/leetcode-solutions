@@ -72,10 +72,12 @@ Language used: Java
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Language used: Java
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## Greedy
 |  |
@@ -106,4 +109,8 @@ Language used: Java
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
