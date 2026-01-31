@@ -41,6 +41,7 @@ Language used: Java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
@@ -51,6 +52,7 @@ Language used: Java
 | ------- |
 | [0011-container-with-most-water](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
@@ -113,4 +115,8 @@ Language used: Java
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
