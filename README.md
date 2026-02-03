@@ -16,6 +16,7 @@ Language used: Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Language used: Java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -129,4 +131,8 @@ Language used: Java
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
