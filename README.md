@@ -12,6 +12,7 @@ Language used: Java
 | ------- |
 | [0002-add-two-numbers](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0328-odd-even-linked-list](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
 | ------- |
