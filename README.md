@@ -37,6 +37,7 @@ Language used: Java
 | [0839-similar-string-groups](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0997-find-the-town-judge](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Language used: Java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Design
 |  |
 | ------- |
@@ -168,4 +170,5 @@ Language used: Java
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 <!---LeetCode Topics End-->
