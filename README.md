@@ -88,6 +88,7 @@ Language used: Java
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -96,6 +97,7 @@ Language used: Java
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -121,6 +123,7 @@ Language used: Java
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## Greedy
@@ -138,6 +141,7 @@ Language used: Java
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0839-similar-string-groups](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0839-similar-string-groups) |
 ## String Matching
