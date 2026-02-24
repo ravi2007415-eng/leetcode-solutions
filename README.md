@@ -48,6 +48,7 @@ Language used: Java
 | [0839-similar-string-groups](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0997-find-the-town-judge](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Language used: Java
 | [0839-similar-string-groups](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
