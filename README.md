@@ -91,6 +91,7 @@ Language used: Java
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Language used: Java
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0839-similar-string-groups](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0839-similar-string-groups) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Language used: Java
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Matrix
 |  |
 | ------- |
