@@ -34,6 +34,7 @@ Language used: Java
 | [0053-maximum-subarray](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0839-similar-string-groups](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0997-find-the-town-judge](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0997-find-the-town-judge) |
@@ -79,6 +80,7 @@ Language used: Java
 | [0053-maximum-subarray](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Stack
