@@ -144,6 +144,7 @@ Language used: Java
 | [0547-number-of-provinces](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1615-maximal-network-rank](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1615-maximal-network-rank) |
 ## Greedy
 |  |
 | ------- |
