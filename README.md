@@ -41,6 +41,7 @@ Language used: Java
 | [0997-find-the-town-judge](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1649-create-sorted-array-through-instructions](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Language used: Java
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1649-create-sorted-array-through-instructions](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -177,6 +179,7 @@ Language used: Java
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [1649-create-sorted-array-through-instructions](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 ## Counting
 |  |
 | ------- |
@@ -198,4 +201,20 @@ Language used: Java
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
+## Segment Tree
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
+## Merge Sort
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
+## Ordered Set
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 <!---LeetCode Topics End-->
