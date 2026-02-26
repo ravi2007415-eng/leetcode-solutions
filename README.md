@@ -36,6 +36,7 @@ Language used: Java
 | [0118-pascals-triangle](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0322-coin-change) |
 | [0839-similar-string-groups](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0997-find-the-town-judge](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -82,6 +83,7 @@ Language used: Java
 | [0118-pascals-triangle](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -111,6 +113,7 @@ Language used: Java
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
