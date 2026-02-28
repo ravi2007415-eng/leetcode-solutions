@@ -33,6 +33,7 @@ Language used: Java
 | [0027-remove-element](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -148,6 +149,7 @@ Language used: Java
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Graph Theory
 |  |
@@ -229,4 +231,8 @@ Language used: Java
 |  |
 | ------- |
 | [1649-create-sorted-array-through-instructions](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
