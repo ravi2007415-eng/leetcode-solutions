@@ -39,6 +39,7 @@ Language used: Java
 | [0322-coin-change](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0322-coin-change) |
 | [0839-similar-string-groups](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0997-find-the-town-judge](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1649-create-sorted-array-through-instructions](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
@@ -192,14 +193,17 @@ Language used: Java
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0383-ransom-note) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
