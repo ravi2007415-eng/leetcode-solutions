@@ -98,6 +98,7 @@ Language used: Java
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -106,6 +107,7 @@ Language used: Java
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
@@ -127,6 +129,7 @@ Language used: Java
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -136,6 +139,7 @@ Language used: Java
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
