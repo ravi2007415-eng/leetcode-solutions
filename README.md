@@ -13,6 +13,7 @@ Language used: Java
 | [0002-add-two-numbers](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Language used: Java
 | [0119-pascals-triangle-ii](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0322-coin-change) |
+| [0705-design-hashset](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0839-similar-string-groups](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0997-find-the-town-judge](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -51,6 +53,7 @@ Language used: Java
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0839-similar-string-groups](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0997-find-the-town-judge](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -167,6 +170,7 @@ Language used: Java
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0705-design-hashset](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Iterator
 |  |
 | ------- |
@@ -214,6 +218,7 @@ Language used: Java
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0705-design-hashset) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Binary Indexed Tree
 |  |
