@@ -90,6 +90,7 @@ Language used: Java
 | [0119-pascals-triangle-ii](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -212,6 +213,7 @@ Language used: Java
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0338-counting-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
