@@ -43,6 +43,7 @@ Language used: Java
 | [0705-design-hashset](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0839-similar-string-groups](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0997-find-the-town-judge](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1122-relative-sort-array](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -58,6 +59,7 @@ Language used: Java
 | [0705-design-hashset](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0839-similar-string-groups](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0997-find-the-town-judge](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1122-relative-sort-array](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 ## String
@@ -216,6 +218,7 @@ Language used: Java
 | ------- |
 | [0056-merge-intervals](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0332-reconstruct-itinerary](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
+| [1122-relative-sort-array](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Bit Manipulation
@@ -261,4 +264,8 @@ Language used: Java
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
