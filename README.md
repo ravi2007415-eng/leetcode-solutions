@@ -53,6 +53,7 @@ Language used: Java
 | [0001-two-sum](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0839-similar-string-groups](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0839-similar-string-groups) |
@@ -67,6 +68,7 @@ Language used: Java
 | [0071-simplify-path](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0332-reconstruct-itinerary](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0383-ransom-note](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0839-similar-string-groups](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -75,6 +77,7 @@ Language used: Java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
