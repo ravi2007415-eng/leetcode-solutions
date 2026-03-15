@@ -43,6 +43,7 @@ Language used: Java
 | [0705-design-hashset](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0839-similar-string-groups](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0997-find-the-town-judge](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1122-relative-sort-array](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -105,6 +106,7 @@ Language used: Java
 | [0071-simplify-path](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
@@ -116,6 +118,7 @@ Language used: Java
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -149,6 +152,7 @@ Language used: Java
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1649-create-sorted-array-through-instructions](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 ## Binary Tree
 |  |
@@ -160,6 +164,7 @@ Language used: Java
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Matrix
 |  |
@@ -268,4 +273,8 @@ Language used: Java
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
