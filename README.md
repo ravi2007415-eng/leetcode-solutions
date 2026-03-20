@@ -13,6 +13,7 @@ Language used: Java
 | [0002-add-two-numbers](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [0641-design-circular-deque](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Math
 |  |
@@ -40,6 +41,7 @@ Language used: Java
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0322-coin-change) |
 | [0332-reconstruct-itinerary](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
+| [0641-design-circular-deque](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0839-similar-string-groups](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0997-find-the-town-judge](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0997-find-the-town-judge) |
@@ -188,6 +190,7 @@ Language used: Java
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0641-design-circular-deque](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Iterator
 |  |
@@ -277,4 +280,8 @@ Language used: Java
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
