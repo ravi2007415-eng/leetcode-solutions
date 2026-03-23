@@ -33,6 +33,7 @@ Language used: Java
 | [0001-two-sum](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
@@ -57,6 +58,7 @@ Language used: Java
 | ------- |
 | [0001-two-sum](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0383-ransom-note](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
