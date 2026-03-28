@@ -35,6 +35,7 @@ Language used: Java
 | [0027-remove-element](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -100,6 +101,7 @@ Language used: Java
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -192,6 +194,7 @@ Language used: Java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/0055-jump-game) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ravi2007415-eng/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Design
 |  |
